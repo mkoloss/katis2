@@ -1,0 +1,12 @@
+body{
+	padding-top: 10px;
+}
+
+td ul{
+	padding-left: 0;
+}
+
+td li{
+	list-style-type: none;
+	display: inline-block;
+}

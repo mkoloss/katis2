@@ -1,3 +1,5 @@
+<?php //git-commit ?>
+
 <?php 
 	include 'db/db.php'; 
 ?>
